@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWarsOddCounterVSC", "CodeWarsOddCounterVSC\CodeWarsOddCounterVSC.csproj", "{ADFDCE4D-7E4B-485B-A25E-B2DEDC30D5E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADFDCE4D-7E4B-485B-A25E-B2DEDC30D5E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADFDCE4D-7E4B-485B-A25E-B2DEDC30D5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADFDCE4D-7E4B-485B-A25E-B2DEDC30D5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADFDCE4D-7E4B-485B-A25E-B2DEDC30D5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07264058-61B7-4A1E-8BD0-A39F4CCC4E44}
+	EndGlobalSection
+EndGlobal

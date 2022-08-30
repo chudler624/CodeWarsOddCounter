@@ -1,0 +1,15 @@
+C:\Users\chudl\Desktop\repos\CodeWarsOddCounter\CodeWarsOddCounterVSC\CodeWarsOddCounterVSC\bin\Debug\net6.0\CodeWarsOddCounterVSC.exe
+C:\Users\chudl\Desktop\repos\CodeWarsOddCounter\CodeWarsOddCounterVSC\CodeWarsOddCounterVSC\bin\Debug\net6.0\CodeWarsOddCounterVSC.deps.json
+C:\Users\chudl\Desktop\repos\CodeWarsOddCounter\CodeWarsOddCounterVSC\CodeWarsOddCounterVSC\bin\Debug\net6.0\CodeWarsOddCounterVSC.runtimeconfig.json
+C:\Users\chudl\Desktop\repos\CodeWarsOddCounter\CodeWarsOddCounterVSC\CodeWarsOddCounterVSC\bin\Debug\net6.0\CodeWarsOddCounterVSC.dll
+C:\Users\chudl\Desktop\repos\CodeWarsOddCounter\CodeWarsOddCounterVSC\CodeWarsOddCounterVSC\bin\Debug\net6.0\CodeWarsOddCounterVSC.pdb
+C:\Users\chudl\Desktop\repos\CodeWarsOddCounter\CodeWarsOddCounterVSC\CodeWarsOddCounterVSC\obj\Debug\net6.0\CodeWarsOddCounterVSC.csproj.AssemblyReference.cache
+C:\Users\chudl\Desktop\repos\CodeWarsOddCounter\CodeWarsOddCounterVSC\CodeWarsOddCounterVSC\obj\Debug\net6.0\CodeWarsOddCounterVSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chudl\Desktop\repos\CodeWarsOddCounter\CodeWarsOddCounterVSC\CodeWarsOddCounterVSC\obj\Debug\net6.0\CodeWarsOddCounterVSC.AssemblyInfoInputs.cache
+C:\Users\chudl\Desktop\repos\CodeWarsOddCounter\CodeWarsOddCounterVSC\CodeWarsOddCounterVSC\obj\Debug\net6.0\CodeWarsOddCounterVSC.AssemblyInfo.cs
+C:\Users\chudl\Desktop\repos\CodeWarsOddCounter\CodeWarsOddCounterVSC\CodeWarsOddCounterVSC\obj\Debug\net6.0\CodeWarsOddCounterVSC.csproj.CoreCompileInputs.cache
+C:\Users\chudl\Desktop\repos\CodeWarsOddCounter\CodeWarsOddCounterVSC\CodeWarsOddCounterVSC\obj\Debug\net6.0\CodeWarsOddCounterVSC.dll
+C:\Users\chudl\Desktop\repos\CodeWarsOddCounter\CodeWarsOddCounterVSC\CodeWarsOddCounterVSC\obj\Debug\net6.0\refint\CodeWarsOddCounterVSC.dll
+C:\Users\chudl\Desktop\repos\CodeWarsOddCounter\CodeWarsOddCounterVSC\CodeWarsOddCounterVSC\obj\Debug\net6.0\CodeWarsOddCounterVSC.pdb
+C:\Users\chudl\Desktop\repos\CodeWarsOddCounter\CodeWarsOddCounterVSC\CodeWarsOddCounterVSC\obj\Debug\net6.0\CodeWarsOddCounterVSC.genruntimeconfig.cache
+C:\Users\chudl\Desktop\repos\CodeWarsOddCounter\CodeWarsOddCounterVSC\CodeWarsOddCounterVSC\obj\Debug\net6.0\ref\CodeWarsOddCounterVSC.dll
